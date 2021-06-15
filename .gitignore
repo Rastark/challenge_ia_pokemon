@@ -140,3 +140,6 @@ cython_debug/
 # user added files
 pokemon.csv
 combats.partial.csv
+test.csv
+train.csv
+train copy.ipynb
